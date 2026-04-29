@@ -3,7 +3,7 @@
 # Hi, I'm Laiba Arif 👋
 ### Full Stack Developer · AI Integrations · SaaS Builder
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-laibaarif--portfolio.netlify.app-1A5276?style=for-the-badge&logo=netlify&logoColor=white)](https://laibaarif-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A5276?style=for-the-badge&logo=netlify&logoColor=white)](https://laibaarif-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-laiba--arif-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laiba-arif-350b95258/)
 [![Email](https://img.shields.io/badge/Email-laibaslatch@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laibaslatch@gmail.com)
 
@@ -73,14 +73,14 @@ AI-powered exam preparation platform with automated question generation, timed e
 
 ---
 
-### 🎓 [Questademic](https://questademic.com/) — AI Flashcard Learning Platform
+### [Questademic](https://questademic.com/) — AI Flashcard Learning Platform
 > React.js · Node.js · MySQL · OpenAI · Stripe
 
 Transforms study material into interactive MCQ & Q&A flashcards using LLMs with RAG integration, batch processing, and deduplication. Includes subscription billing, affiliate system, and admin controls.
 
 ---
 
-### 🌐 [Neksogix Website](https://www.neksogix.com/) — Company Website
+### [Neksogix Website](https://www.neksogix.com/) — Company Website
 > React.js · Node.js · GraphQL · Vercel
 
 Full-stack company website with Apollo/GraphQL APIs, CI/CD pipeline on Vercel, Nodemailer contact integration, and SEO optimization.
