@@ -11,19 +11,19 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I'm a **Full Stack Developer** based in Lahore, Pakistan, currently working at **Neksogix** where I build AI-powered SaaS applications and production-ready MVPs. I specialize in end-to-end development — from designing intuitive UIs to architecting scalable backends and integrating cutting-edge AI.
 
-- 🚀 Built and shipped **10+ projects** including AI SaaS platforms, healthcare apps, and subscription-based products
-- 🤖 Passionate about **AI integration** — LLMs, RAG pipelines, prompt engineering, and agentic workflows
-- 🎓 BS Computer Science @ **UET Lahore** (GPA: 3.456/4.0) — graduating June 2025
-- 🏆 Represented UET at **PENTECH Expo 2025** — FYP selected by government among top 3 CS projects
-- 🌱 Currently exploring **AI coding tools** (Make.com, Lovable, Agent.AI) and serverless architectures
+- Built and shipped **10+ projects** including AI SaaS platforms, healthcare apps, and subscription-based products
+- Passionate about **AI integration** — LLMs, RAG pipelines, prompt engineering, and agentic workflows
+- BS Computer Science @ **UET Lahore** (GPA: 3.456/4.0) — graduating June 2025
+- Represented UET at **PENTECH Expo 2025** — FYP selected by government among top 3 CS projects
+- Currently exploring **AI coding tools** (Make.com, Lovable, Agent.AI) and serverless architectures
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -57,16 +57,16 @@ I'm a **Full Stack Developer** based in Lahore, Pakistan, currently working at *
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏥 [Leny AI](https://leny.ai/) — AI Healthcare SaaS
+### [Leny AI](https://leny.ai/) — AI Healthcare SaaS
 > Next.js · TypeScript · Firebase · OpenAI
 
 AI-powered chat system for patients and providers. Features real-time medical conversations with intelligent query classification, a clinical sidebar with proactive diagnostics, notes editor (Pro Mode), and a role-based admin dashboard.
 
 ---
 
-### 📚 [ExamWarriors](https://examwarriors.com.au/) — SaaS Exam Prep Platform
+### [ExamWarriors](https://examwarriors.com.au/) — SaaS Exam Prep Platform
 > React.js · Node.js · OpenAI · Stripe
 
 AI-powered exam preparation platform with automated question generation, timed exams, performance analytics, a hybrid teacher/AI evaluation system, and Stripe subscription billing.
@@ -87,25 +87,25 @@ Full-stack company website with Apollo/GraphQL APIs, CI/CD pipeline on Vercel, N
 
 ---
 
-### 🤝 [EarnCore Community](https://earncorecommunity.com/) — Social Network
+### [EarnCore Community](https://earncorecommunity.com/) — Social Network
 > React.js · Django · Hostinger
 
 Hybrid social platform combining Reddit-scraped content with real user interactions, Django REST APIs, real-time notifications, and a comprehensive admin dashboard.
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-- 🎖️ **NVIDIA: Fundamentals of Machine Learning** — Coursera (supervised learning, clustering, ARIMA, GPU-accelerated ML)
-- 🎖️ **Generative AI: Prompt Engineering Basics** — Coursera (prompt patterns, context management, AI workflows)
+- **NVIDIA: Fundamentals of Machine Learning** — Coursera (supervised learning, clustering, ARIMA, GPU-accelerated ML)
+- **Generative AI: Prompt Engineering Basics** — Coursera (prompt patterns, context management, AI workflows)
 
 ---
 
-## 🏆 Highlights
+## Highlights
 
-- 🏛️ **PENTECH Expo 2025** — FYP selected by the Government of Pakistan; one of only 3 CS projects from UET Lahore to be showcased
-- 👩‍💼 **Promoted** from Intern → Lead Intern → Part-Time Developer → Full Stack Developer at Neksogix
-- 🌍 Delivered projects for Australian, international, and local clients
+- **PENTECH Expo 2025** — FYP selected by the Government of Pakistan; one of only 3 CS projects from UET Lahore to be showcased
+- **Promoted** from Intern → Lead Intern → Part-Time Developer → Full Stack Developer at Neksogix
+- Delivered projects for Australian, international, and local clients
 
 ---
 
