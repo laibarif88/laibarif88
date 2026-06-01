@@ -17,7 +17,7 @@ I'm a **Full Stack Developer** based in Lahore, Pakistan, currently working at *
 
 - Built and shipped **10+ projects** including AI SaaS platforms, healthcare apps, and subscription-based products
 - Passionate about **AI integration** — LLMs, RAG pipelines, prompt engineering, and agentic workflows
-- BS Computer Science @ **UET Lahore** (GPA: 3.456/4.0) — graduating June 2025
+- BS Computer Science @ **UET Lahore**
 - Represented UET at **PENTECH Expo 2025** — FYP selected by government among top 3 CS projects
 - Currently exploring **AI coding tools** (Make.com, Lovable, Agent.AI) and serverless architectures
 
